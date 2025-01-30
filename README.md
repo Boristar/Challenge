@@ -1,4 +1,8 @@
+
+
+
 # 🎁 Amigo Secreto
+![Captura de pantalla del proyecto](assets/screenshot1.png)
 
 ¡Bienvenido a **Amigo Secreto**! Un divertido y sencillo proyecto para sortear un amigo secreto de manera rápida y sin complicaciones. 🎉
 
@@ -18,12 +22,6 @@ Este proyecto te permite ingresar nombres de amigos y realizar un sorteo aleator
 ## 🚀 Captura de pantalla
 
 ![Captura de pantalla del proyecto](assets/screenshot.png)
-
----
-
-## 🎥 Demostración en video
-
-[![Mira el video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ---
 
