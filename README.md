@@ -56,7 +56,7 @@ Este proyecto te permite ingresar nombres de amigos y realizar un sorteo aleator
 
 1️⃣ Clona este repositorio:
 ```sh
-  git clone https://github.com/TU_USUARIO/AmigoSecreto.git
+  git clone https://github.com/Boristar/AmigoSecreto.git
 ```
 
 2️⃣ Abre el archivo `index.html` en tu navegador favorito.  
